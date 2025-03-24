@@ -1,0 +1,17 @@
+body {
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.image-container {
+  border: 5px solid #ff00ff;
+  padding: 10px;
+  box-shadow: 0 0 20px #ff00ff;
+  border-radius: 10px;
+}
+img {
+  width: 300px;
+  border-radius: 10px;
+}
